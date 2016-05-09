@@ -1,0 +1,28 @@
+name: STUDIO NOIR
+favicon: null
+layout_spectrum: 0.7145396345295012
+typography_spectrum: 0.40178376669064164
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.275104709668085
+  lightness: 0.17630605772137642
+  saturation: 0.7655715455766767
+  rhythmicContrast: 0.16679114964790642
+purpose: []
