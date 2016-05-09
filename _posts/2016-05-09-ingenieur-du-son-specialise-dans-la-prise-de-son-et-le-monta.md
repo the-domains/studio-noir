@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Ingénieur du son spécialisé dans la prise de son et le montage de musique classique
-datePublished: '2016-05-09T13:09:56.793Z'
-dateModified: '2016-05-09T13:09:30.922Z'
+datePublished: '2016-05-09T13:12:54.938Z'
+dateModified: '2016-05-09T13:12:34.930Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-09-ingenieur-du-son-specialise-dans-la-prise-de-son-et-le-monta.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-05-09-ingenieur-du-son-specialise-dans-la-prise-de-son-et-le-monta.md
+starred: true
 url: ingenieur-du-son-specialise-dans-la-prise-de-son-et-le-monta/index.html
 _type: Article
 
