@@ -1,5 +1,4 @@
-favicon: null
-name: STUDIO NOIR
+layout_spectrum: 0.26114
 opengraph:
   image: null
   type: null
@@ -10,16 +9,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.5
-  brandStrength: 0.2741936
+  brandStrength: 0.1935484
   lightness: 0.25
   brandColors:
     - '#0d0906'
@@ -28,13 +27,14 @@ color:
     - '#a36f3d'
     - '#4e3e2f'
   rhythmicContrast: 0.5
-typography_spectrum: 0.67237
+typography_spectrum: 0.8602151
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.26114
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: STUDIO NOIR
