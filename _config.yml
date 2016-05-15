@@ -1,28 +1,40 @@
-name: STUDIO NOIR
 favicon: null
-layout_spectrum: 0.26114
-typography_spectrum: 0.67237
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: STUDIO NOIR
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5
+  brandStrength: 0.2741936
+  lightness: 0.25
   brandColors:
     - '#0d0906'
     - '#ca8937'
     - '#622006'
     - '#a36f3d'
     - '#4e3e2f'
-  brandStrength: 0.125
-  lightness: 0.25
-  saturation: 0.5
   rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.67237
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.26114
+analytics:
+  twitter: null
+  google: null
+  facebook: null
